@@ -10,9 +10,12 @@ import java.io.IOException;
  * To change this template use File | Settings | File Templates.
  */
 public class EncodingModuleClient {
+
     public static void main(String[] args) throws IOException {
         EncodingModule encodingModule  = new EncodingModule();
-        encodingModule.encodeWithFiles();
-        encodingModule.encodeBasedOnNetworkAndDatabase();
+        String readPath;
+//        readfile;
+//        encode
+//        write
     }
 }
